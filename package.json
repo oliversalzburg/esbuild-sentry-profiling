@@ -1,0 +1,8 @@
+{
+  "name": "esbuild-sentry-profiling",
+  "packageManager": "yarn@3.6.0",
+  "devDependencies": {
+    "@sentry/profiling-node": "1.0.0-beta.1",
+    "esbuild": "^0.17.19"
+  }
+}
